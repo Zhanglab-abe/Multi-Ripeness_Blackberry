@@ -51,13 +51,5 @@ This repository provides the full dataset and the best-trained YOLO weights for 
 *To cite this repo in your works, use the following BibTeX entry:*
 
 ```bibtex
-<!-- @article{thayananthan2025cottonsim,
-  title={CottonSim: A vision-guided autonomous robotic system for cotton harvesting in Gazebo simulation},
-  author={Thayananthan, Thevathayarajh and Zhang, Xin and Huang, Yanbo and Chen, Jingdao and Wijewardane, Nuwan K and Martins, Vitor S and Chesser, Gary D and Goodin, Christopher T},
-  journal={Computers and Electronics in Agriculture},
-  volume={239},
-  pages={110963},
-  year={2025},
-  publisher={Elsevier}
-} -->
+
 ```
