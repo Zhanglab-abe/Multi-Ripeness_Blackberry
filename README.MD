@@ -35,15 +35,15 @@ berries was 92.4%, making YOLOv7-base a reliable tool for near realtime, in-fiel
 ```text
 This repository provides the full dataset and the best-trained YOLO weights for multi-ripeness blackberry detection. The following links correspond to the trained weights used for model evaluation.
 ```
-[YOLOv5-x6]() 
-[YOLOv6-l6]() 
-[YOLOv7-base]() 
-[YOLOv7-x]() 
-[YOLOv7-e6e]()
-[YOLOv8-n]() 
-[YOLOv8-x]() 
-[YOLOv12-n]()
-[YOLOv12-x]()
+[YOLOv5-x6](https://outlookuga-my.sharepoint.com/:f:/g/personal/tt43037_uga_edu/EtdTl6EyoWJFmwwlmpuUWfwB1M6lfk8nf-I1RheOhFxWaQ?e=JKf9Wp) 
+[YOLOv6-l6](https://outlookuga-my.sharepoint.com/:f:/g/personal/tt43037_uga_edu/EtilEj60j-tDlyEKhdLkDxIBwaRsCFtC0cjBHnIq2dgYCQ?e=fyJXom) 
+[YOLOv7-base](https://outlookuga-my.sharepoint.com/:f:/g/personal/tt43037_uga_edu/EjZlpUI2JpRPlFnJNE6wbeQBZPGDGz8Na84vf1OsGjx-JA?e=ZWozh1) 
+[YOLOv7-x](https://outlookuga-my.sharepoint.com/:f:/g/personal/tt43037_uga_edu/Ei7_njuWSYtJvdFOaRMBRtcBlOSh7tVsYm4AUG7VWHidtQ?e=TlXyz4) 
+[YOLOv7-e6e](https://outlookuga-my.sharepoint.com/:f:/g/personal/tt43037_uga_edu/EtY1qfZhUypFjgHHGoiuQccBcQdsRWEi1KnKxgW6GD883A?e=BPHS2y)
+[YOLOv8-n](https://outlookuga-my.sharepoint.com/:f:/g/personal/tt43037_uga_edu/EitSVXs7dC9LmMfPaurqVisBTiYKefDyve407stagPQCDA?e=bTi3v7) 
+[YOLOv8-x](https://outlookuga-my.sharepoint.com/:f:/g/personal/tt43037_uga_edu/Eq-N72vxWDNCkDFOxkacLIcBqwBbvOzsiNk9YkK_qGobgg?e=U6bwqR) 
+[YOLOv12-n](https://outlookuga-my.sharepoint.com/:f:/g/personal/tt43037_uga_edu/Eqb4zzXuIqJFn5JARKxb9ZsBvjdAuafAmY70vrP8aMsf3A?e=ESIvEy)
+[YOLOv12-x](https://outlookuga-my.sharepoint.com/:f:/g/personal/tt43037_uga_edu/Es6sxlQJWAJIiWeu1VxSqhQBZXgyaalSk1O31t3XHHxZLg?e=FOQqOa)
 
 
 
