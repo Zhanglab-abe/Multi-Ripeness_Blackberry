@@ -24,7 +24,7 @@ the ripe berries only was a particular focus. Overall, nine YOLO models (i.e., Y
 YOLOv8-n, YOLOv8-x, YOLOv12-n, and YOLOv12-x were trained and validated using randomly partitioned 760 (70%) and 108 images (10%),
 respectively. Among these models, YOLOv7-base outperformed the others in balancing mean Average Precision (mAP) and frames-persecond (FPS) on the test set, which comprised 218 images (20%). More specifically, YOLOv7-base achieved the mAP of 91.1%, F1-score of
 84.9%, and inference speed of 12.6 ms per image with 1,024 × 1,024 pixels across all classes of ripeness. In addition, its mAP on the ripe
-berries was 92.4%, making YOLOv7-base a reliable tool for near realtime, in-field blackberry detection for soft robotic selective harvesting. The full imagery dataset, annotated labels, and trained weights of all YOLO models in this study are published to the community in the GitHub repository via [GitHub]().
+berries was 92.4%, making YOLOv7-base a reliable tool for near realtime, in-field blackberry detection for soft robotic selective harvesting. The full imagery dataset, annotated labels, and trained weights of all YOLO models in this study are published to the community in the GitHub repository via [GitHub](https://github.com/Zhanglab-abe/Multi-Ripeness_Blackberry).
 
 ---
 
