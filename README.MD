@@ -32,9 +32,12 @@ berries was 92.4%, making YOLOv7-base a reliable tool for near realtime, in-fiel
 
 ### 🗂️ Repository Overview
 
-```text
-This repository provides the full dataset and the best-trained YOLO weights for multi-ripeness blackberry detection. The following links correspond to the trained weights used for model evaluation.
-```
+
+This repository provides the complete dataset and best-trained YOLO weights generated from five randomized datasets derived from the full dataset for multi-ripeness blackberry detection.
+The following links correspond to the trained weights used for model evaluation.
+
+⚠️ If you use any of the provided models or datasets, please cite the references listed at the end of this README.
+
 [YOLOv5-x6](https://outlookuga-my.sharepoint.com/:f:/g/personal/tt43037_uga_edu/EtdTl6EyoWJFmwwlmpuUWfwB1M6lfk8nf-I1RheOhFxWaQ?e=JKf9Wp) 
 [YOLOv6-l6](https://outlookuga-my.sharepoint.com/:f:/g/personal/tt43037_uga_edu/EtilEj60j-tDlyEKhdLkDxIBwaRsCFtC0cjBHnIq2dgYCQ?e=fyJXom) 
 [YOLOv7-base](https://outlookuga-my.sharepoint.com/:f:/g/personal/tt43037_uga_edu/EjZlpUI2JpRPlFnJNE6wbeQBZPGDGz8Na84vf1OsGjx-JA?e=ZWozh1) 
