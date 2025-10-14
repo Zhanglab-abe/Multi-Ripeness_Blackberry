@@ -1,0 +1,63 @@
+# 🌾 [Sensing and Automation in Agri-System (SAAS) Lab](https://sites.google.com/view/xin-zhang-lab/home)
+
+🏛️ [**School of Environmental, Civil, Agricultural & Mechanical Engineering**](https://engineering.uga.edu/schools/ecam/), [**University of Georgia**](https://www.uga.edu/)  
+
+
+---
+
+# ❓ Why do we create this repo?
+
+This repository accompanies the publication:
+
+**IN-FIELD MULTI-RIPENESS BLACKBERRY DETECTION FOR SOFT ROBOTIC HARVESTING**  
+Published in *Journal of the American Society of Agricultural and Biological Engineers* (2025)  
+📄 [ASABE Link]()
+
+
+---
+
+
+# 📄 Abstract
+Blackberry harvesting is a crucial step for the fresh market production, requiring multiple passes of hand-picking because the berries do not ripen simultaneously, even on a plant, during the harvesting season. The blackberry harvesting process encounters several major hurdles in the U.S., including the shortage of agricultural labor and postharvest fruit quality since the blackberries are highly delicate and sensitive. Developing a computer vision-enabled robotic system for selectively picking blackberries can mitigate issues and secure the profitability of fresh blackberry growers. In-field blackberry detection and localization are extremely challenging attributing to several driving-factors, such as small size of the target berries, multiple levels of berry ripeness, and
+great variation of outdoor lighting conditions. This study aims to assess and compare the feasibility, accuracy, and efficiency of a series of stateof-the-art YOLO (You Only Look Once) models in detecting multi-ripeness blackberries in the farm conditions. A total of 1,086 images containing three different ripeness levels of blackberries were observed during the two-year harvesting season, including ripe berries (in black color), berries in the ripening stage (in pink color), and unripe berries (in green color). The computer vision pipeline developed in this study had the ability to detect and localize all berries at different ripeness levels, while detecting
+the ripe berries only was a particular focus. Overall, nine YOLO models (i.e., YOLOv5-x6, YOLOv6-l6, YOLOv7-base, YOLOv7-x, YOLOv7-e6e,
+YOLOv8-n, YOLOv8-x, YOLOv12-n, and YOLOv12-x were trained and validated using randomly partitioned 760 (70%) and 108 images (10%),
+respectively. Among these models, YOLOv7-base outperformed the others in balancing mean Average Precision (mAP) and frames-persecond (FPS) on the test set, which comprised 218 images (20%). More specifically, YOLOv7-base achieved the mAP of 91.1%, F1-score of
+84.9%, and inference speed of 12.6 ms per image with 1,024 × 1,024 pixels across all classes of ripeness. In addition, its mAP on the ripe
+berries was 92.4%, making YOLOv7-base a reliable tool for near realtime, in-field blackberry detection for soft robotic selective harvesting. The full imagery dataset, annotated labels, and trained weights of all YOLO models in this study are published to the community in the GitHub repository via [GitHub]().
+
+---
+
+# 📂 How to use this repo?
+
+### 🗂️ Repository Overview
+
+```text
+This repository provides the full dataset and the best-trained YOLO weights for multi-ripeness blackberry detection. The following links correspond to the trained weights used for model evaluation.
+```
+[YOLOv5-x6]() 
+[YOLOv6-l6]() 
+[YOLOv7-base]() 
+[YOLOv7-x]() 
+[YOLOv7-e6e]()
+[YOLOv8-n]() 
+[YOLOv8-x]() 
+[YOLOv12-n]()
+[YOLOv12-x]()
+
+
+
+# 📖 How to properly cite us if you find this repo useful?
+*To cite this repo in your works, use the following BibTeX entry:*
+
+```bibtex
+<!-- @article{thayananthan2025cottonsim,
+  title={CottonSim: A vision-guided autonomous robotic system for cotton harvesting in Gazebo simulation},
+  author={Thayananthan, Thevathayarajh and Zhang, Xin and Huang, Yanbo and Chen, Jingdao and Wijewardane, Nuwan K and Martins, Vitor S and Chesser, Gary D and Goodin, Christopher T},
+  journal={Computers and Electronics in Agriculture},
+  volume={239},
+  pages={110963},
+  year={2025},
+  publisher={Elsevier}
+} -->
+```
