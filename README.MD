@@ -10,7 +10,7 @@
 This repository accompanies the publication:
 
 **IN-FIELD MULTI-RIPENESS BLACKBERRY DETECTION FOR SOFT ROBOTIC HARVESTING**  
-Published in *Journal of the American Society of Agricultural and Biological Engineers* (2025)  
+Published in the *Journal of the American Society of Agricultural and Biological Engineers* (2025)  
 📄 [ASABE Link]()
 
 
