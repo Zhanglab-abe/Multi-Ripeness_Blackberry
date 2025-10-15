@@ -48,6 +48,49 @@ The following links correspond to the trained weights used for model evaluation.
 [YOLOv12-n](https://outlookuga-my.sharepoint.com/:f:/g/personal/tt43037_uga_edu/Eqb4zzXuIqJFn5JARKxb9ZsBvjdAuafAmY70vrP8aMsf3A?e=ESIvEy)
 [YOLOv12-x](https://outlookuga-my.sharepoint.com/:f:/g/personal/tt43037_uga_edu/Es6sxlQJWAJIiWeu1VxSqhQBZXgyaalSk1O31t3XHHxZLg?e=FOQqOa)
 
+## 🚀 Getting Started
+
+### 🛠️ Installation
+Please visit the corresponding YOLO repositories to learn how to install the dependencies and packages in your Conda environment before training:
+
+[YOLOv5](https://github.com/ultralytics/yolov5) <br>
+[YOLOv6](https://github.com/meituan/YOLOv6) <br>
+[YOLOv7](https://github.com/WongKinYiu/yolov7) <br>
+[YOLOv8](https://github.com/ultralytics/ultralytics) <br> 
+[YOLOv12](https://github.com/sunsmarterjie/yolov12) <br>
+
+
+For training and validation, use the model-specific approaches described in the above repositories.  
+The following default hyperparameters were used to generate the reported results:  
+
+---
+
+### 🧠 Training
+
+| Parameter              | Value  |
+|:------------------------|:-------|
+| Image size             | 1024   |
+| Weights                | Corresponding pre-trained weight |
+| Data                   | Use `main_1.yaml` for all models except YOLOv6; use `mainV6.yaml` for YOLOv6 |
+| Epochs                 | 300    |
+| Batch size             | 8      |
+| Initial learning rate  | 0.01   |
+| Learning rate factor   | 0.01   |
+| Box                    | 7.5    |
+
+---
+
+### ✅ Validation
+
+| Parameter              | Value  |
+|:------------------------|:-------|
+| Image size             | 1024   |
+| Weights                | Trained weights |
+| Batch size             | 8      |
+| Task                   | test   |
+| Data                   | Use `main_1.yaml` for all models except YOLOv6; use `mainV6.yaml` for YOLOv6 |
+| Box                    | 7.5    |
+
 
 
 # 📖 How to properly cite us if you find this repo useful?
