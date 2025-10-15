@@ -71,7 +71,7 @@ The following default hyperparameters were used to generate the reported results
 |:------------------------|:-------|
 | Image size             | 1024   |
 | Weights                | Corresponding pre-trained weight |
-| Data                   | Use `main_1.yaml` for all models except YOLOv6; use `mainV6.yaml` for YOLOv6 |
+| Data                   | Use `data/main_1.yaml` for all models except YOLOv6; use `data/mainV6.yaml` for YOLOv6 |
 | Epochs                 | 300    |
 | Batch size             | 8      |
 | Initial learning rate  | 0.01   |
@@ -88,7 +88,7 @@ The following default hyperparameters were used to generate the reported results
 | Weights                | Trained weights |
 | Batch size             | 8      |
 | Task                   | test   |
-| Data                   | Use `main_1.yaml` for all models except YOLOv6; use `mainV6.yaml` for YOLOv6 |
+| Data                   | Use `data/main_1.yaml` for all models except YOLOv6; use `data/mainV6.yaml` for YOLOv6 |
 | Box                    | 7.5    |
 
 
