@@ -1,0 +1,14 @@
+
+path: /parent_root
+train: relative/path/to/train/images  
+val: relative/path/to/val/images    
+test: relative/path/to/test/images  
+
+# Classes
+names:
+  0: Ripe
+  1: Ripening
+  2: Unripe
+
+
+

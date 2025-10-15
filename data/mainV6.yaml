@@ -1,0 +1,12 @@
+train: /parent/path/to/train/images  
+val: /parent/path/to/val/images    
+test: /parent/path/to/test/images  
+
+
+is_coco: False
+# Classes
+nc: 3  # number of classes
+# names: ['0','1','2']  # class names
+names: ['Ripe','Ripening','Unripe']  # class names
+
+
