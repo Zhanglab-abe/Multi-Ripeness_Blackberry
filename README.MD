@@ -36,10 +36,7 @@ berries was 92.4%, making YOLOv7-base a reliable tool for near realtime, in-fiel
 This repository provides the complete dataset and best-trained YOLO weights generated from five randomized datasets derived from the full dataset for multi-ripeness blackberry detection.
 The following links correspond to the trained weights used for model evaluation.
 
-⚠️ Note: If you use any of the provided models or datasets, please cite the references listed at the end of this README.
-Among the five datasets, Dataset 2 demonstrated the best performance for multi-ripeness detection. You can find it in `Datasets\dataset_2`.
-
-The trained weights associated with Dataset 2 are indicated by the suffix -d2 in the filenames and can be accessed via the following shared drives:
+Among the five datasets, Dataset 2 demonstrated the best performance for multi-ripeness detection. You can find it in `Datasets\dataset_2`.The trained weights associated with Dataset 2 are indicated by the suffix -d2 in the filenames and can be accessed via the following shared drives:
 
 [YOLOv5-x6](https://outlookuga-my.sharepoint.com/:f:/g/personal/tt43037_uga_edu/EtdTl6EyoWJFmwwlmpuUWfwB1M6lfk8nf-I1RheOhFxWaQ?e=JKf9Wp) 
 [YOLOv6-l6](https://outlookuga-my.sharepoint.com/:f:/g/personal/tt43037_uga_edu/EtilEj60j-tDlyEKhdLkDxIBwaRsCFtC0cjBHnIq2dgYCQ?e=fyJXom) 
@@ -50,6 +47,8 @@ The trained weights associated with Dataset 2 are indicated by the suffix -d2 in
 [YOLOv8-x](https://outlookuga-my.sharepoint.com/:f:/g/personal/tt43037_uga_edu/Eq-N72vxWDNCkDFOxkacLIcBqwBbvOzsiNk9YkK_qGobgg?e=U6bwqR) 
 [YOLOv12-n](https://outlookuga-my.sharepoint.com/:f:/g/personal/tt43037_uga_edu/Eqb4zzXuIqJFn5JARKxb9ZsBvjdAuafAmY70vrP8aMsf3A?e=ESIvEy)
 [YOLOv12-x](https://outlookuga-my.sharepoint.com/:f:/g/personal/tt43037_uga_edu/Es6sxlQJWAJIiWeu1VxSqhQBZXgyaalSk1O31t3XHHxZLg?e=FOQqOa)
+
+⚠️ Note: If you use any of the provided models or datasets, please cite the references listed at the end of this README.
 
 ## 🚀 Getting Started
 
