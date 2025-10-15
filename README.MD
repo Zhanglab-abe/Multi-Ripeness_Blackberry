@@ -89,8 +89,6 @@ The following default hyperparameters were used to generate the reported results
 | Batch size             | 8      |
 | Task                   | test   |
 | Data                   | Use `data/main_1.yaml` for all models except YOLOv6; use `data/mainV6.yaml` for YOLOv6 |
-| Box                    | 7.5    |
-
 
 
 # 📖 How to properly cite us if you find this repo useful?
